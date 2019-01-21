@@ -123,8 +123,8 @@ For more details, see the `cookiecutter-pypackage tutorial`_.
 .. _PyPi: https://pypi.python.org/pypi
 .. _Docker: https://hub.docker.com
 
-.. |Linux| image:: https://img.shields.io/travis/audreyr/cookiecutter-pypackage.svg
-    :target: https://travis-ci.org/audreyr/cookiecutter-pypackage
+.. |Linux| image:: https://img.shields.io/travis/happykhan/qi-python-package.svg
+    :target: https://travis-ci.org/happykhan/qi-python-package
     :alt: Linux build status on Travis CI
 
 .. |Windows| image:: https://ci.appveyor.com/api/projects/status/github/happykhan/qi-python-package?branch=master&svg=true
